@@ -1,0 +1,7 @@
+<NotepadPlus>
+    <Project name="Test Notepad++">
+        <Folder name="Files Here">
+            <File name="readme.txt" />
+        </Folder>
+    </Project>
+</NotepadPlus>
