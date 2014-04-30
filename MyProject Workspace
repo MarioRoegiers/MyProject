@@ -1,6 +1,6 @@
 <NotepadPlus>
     <Project name="Test Notepad++">
-        <Folder name="Files Here">
+        <Folder name="test folder">
             <File name="readme.txt" />
         </Folder>
     </Project>
